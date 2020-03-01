@@ -7,9 +7,12 @@
 ## Node
 
 - [LearnYouNode](https://www.npmjs.com/package/learnyounode)
+- https://www.airpair.com/javascript/node-js-tutorial
+- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
 
-## web frameworks
+## node web frameworks
 
+- https://expressjs.com/
 - https://loopback.io/
 - https://koajs.com/
 - https://adonisjs.com/
@@ -26,4 +29,8 @@
 - https://learngitbranching.js.org/
 - https://www.learnshell.org/
 - Azure Devops https://www.dotnetcurry.com/devops/1486/azure-devops-build-deploy-nodejs
+- https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
 
+# environment setup
+
+- https://codewithhugo.com/a-simple-javascript/node-coding-setup-on-mac-os-x/
