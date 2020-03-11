@@ -1,5 +1,7 @@
 # workshops
 
+A compilation of learning material on NodeJS for Node Eskwela
+
 ## pre-Node
 
 - https://htmlcheatsheet.com/js/
