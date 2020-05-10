@@ -1,6 +1,6 @@
 # workshops
 
-A compilation of learning material on NodeJS for Node Eskwela
+This repository contains two codebases. The first is a simple README here which has links , the second is a github pages site, with some blog posts on learning nodejs, which can be accessed at https://workshops.nodeeskwela.com 
 
 ## pre-Node
 
