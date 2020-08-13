@@ -9,8 +9,9 @@ This repository contains two codebases. The first is a simple README here which 
 ## Node
 
 - [LearnYouNode](https://www.npmjs.com/package/learnyounode)
-- https://www.airpair.com/javascript/node-js-tutorial
-- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+- [Airpair NodeJS Tutorial](https://www.airpair.com/javascript/node-js-tutorial)
+- [Mozilla Docs Express Intro](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- [Microsoft Build Javascript Applications with NodejS](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)
 
 ## node web frameworks
 
